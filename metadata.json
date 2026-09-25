@@ -1,0 +1,8 @@
+{
+  "name": "Remix Catálogo da Hamburgueria",
+  "description": "Cardápio artesanal com 4 hambúrgueres especiais, 4 refrigerantes, 4 sobremesas e checkout integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
